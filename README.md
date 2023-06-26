@@ -14,3 +14,4 @@ The application supports saving movies in a text file or in a database.
 # TODO
 
 - Use data from this page (http://www.omdbapi.com/)
+# MovieOrganizer
